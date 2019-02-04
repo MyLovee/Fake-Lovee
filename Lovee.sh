@@ -583,7 +583,7 @@ fi
 if [ $kontol = "B" ] || [ $kontol = "b" ]
 then
 clear
-sh losy.sh
+sh Lovee.sh
 fi
 
 if [ $kontol = "E" ] || [ $Kontol = "e" ]
