@@ -19,8 +19,8 @@ clear
 toilet -f future -F gay F a k e - L O V E E
 echo $yellow"====================================================================="
 echo $cyan "[*]$cyan############################################################$cyan[*]"
-echo $cyan" |*|  $yellow        Author   : root@Mine7                             $cyan|*|"
-echo $cyan" |*|  $yellow        Team     : Nolep People Crew                    $cyan  |*|"
+echo $cyan" |*|  $yellow        Author   : Mine7                             $cyan|*|"
+echo $cyan" |*|  $yellow        Team     : SharkXploit                       $cyan  |*|"
 echo $cyan" |*|  $yellow        Contact  : 0895378276565                       $cyan   |*|"
 echo $cyan" [*]############################################################[*]"
 echo " [+]                                                            [+]"
@@ -141,8 +141,6 @@ then
 echo $cyan
 clear
 figlet "Menginstall"
-apt update
-apt upgrade
 pkg install php
 pkg install git
 pkg install toilet
@@ -557,7 +555,7 @@ echo""
 echo $yellow "----------------------------------------"
 echo $yellow "| Author : root@Mine7         $yellow          | "
 echo $yellow "| Github : https://github.com/MyLovee $yellow  |"
-echo $yellow "| My Team : Nolep People Crew           |"
+echo $yellow "| My Team : SharkXploit                 |"
 echo $yellow "| Instagram : Mine7_7                   |"
 echo $cyan   "| Whatsapp : 0895378276565              |"
 echo $cyan   "| Muehehehehe                           |"
